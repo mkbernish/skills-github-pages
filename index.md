@@ -1,4 +1,5 @@
 ---
-Sea Plots
+layout: post
+title: Blogging Like a Hacker
 ---
 
